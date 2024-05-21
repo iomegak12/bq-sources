@@ -1,0 +1,1001 @@
+orderid,orderdate,customer,product,units,billingaddress,remarks
+1001,9/14/2018,265,615,88,Bangalore,Wonderful Product
+1002,4/16/2019,107,67,22,Kolkata,Awful Items
+1003,7/17/2019,451,163,12,Trivandrum,Appreciated
+1004,4/13/2019,971,324,82,Mumbai,Strongly Recommend to Everyone to Buy this Product
+1005,9/13/2018,856,34,91,Bangalore,Dont ever dream of buying this item
+1006,4/10/2019,583,356,26,Hyderabad,Pathetic Items Received
+1007,4/30/2019,387,106,82,New Delhi,Strongly Recommend to Everyone to Buy this Product
+1008,1/30/2019,843,930,35,Bangalore,Appreciated
+1009,1/6/2019,163,498,52,Bangalore,Appreciated
+1010,11/10/2018,884,430,26,Mumbai,Awful Items
+1011,8/14/2019,342,297,52,Trivandrum,Wonderful Product
+1012,12/10/2018,530,950,87,Bangalore,Strongly Recommend to Everyone to Buy this Product
+1013,8/25/2019,264,130,55,Trivandrum,Awful Items
+1014,4/21/2019,585,502,97,Hyderabad,Strongly Recommend to Everyone to Buy this Product
+1015,5/31/2019,87,469,19,Mysore,Dont ever dream of buying this item
+1016,12/31/2018,307,317,67,Bangalore,Pathetic Items Received
+1017,11/23/2018,969,405,89,Bangalore,Strongly Recommend to Everyone to Buy this Product
+1018,4/5/2019,969,429,49,Mysore,Dont ever dream of buying this item
+1019,11/30/2018,669,503,81,New Delhi,Strongly Recommend to Everyone to Buy this Product
+1020,2/26/2019,92,248,58,Mumbai,Pathetic Items Received
+1021,9/30/2018,137,470,50,Hyderabad,Pathetic Items Received
+1022,8/20/2019,617,439,71,Kolkata,Appreciated
+1023,3/19/2019,71,951,31,Kolkata,Pathetic Items Received
+1024,10/10/2018,81,85,37,Chennai,Wonderful Product
+1025,5/4/2019,402,929,54,Mumbai,Strongly Recommend to Everyone to Buy this Product
+1026,2/9/2019,605,947,62,Hyderabad,Dont ever dream of buying this item
+1027,11/19/2018,915,982,11,Chennai,Dont ever dream of buying this item
+1028,10/16/2018,65,444,66,Hyderabad,Wonderful Product
+1029,4/30/2019,756,598,34,Trivandrum,Strongly Recommend to Everyone to Buy this Product
+1030,10/5/2018,727,561,43,Mumbai,Strongly Recommend to Everyone to Buy this Product
+1031,8/28/2019,760,109,46,Chennai,Strongly Recommend to Everyone to Buy this Product
+1032,1/1/2019,394,411,59,Mysore,Strongly Recommend to Everyone to Buy this Product
+1033,4/21/2019,332,878,13,New Delhi,Strongly Recommend to Everyone to Buy this Product
+1034,4/26/2019,220,484,61,New Delhi,Dont ever dream of buying this item
+1035,8/4/2019,601,657,57,Mumbai,Wonderful Product
+1036,11/17/2018,614,28,14,Trivandrum,Wonderful Product
+1037,6/2/2019,968,699,14,Hyderabad,Wonderful Product
+1038,9/22/2018,869,412,42,New Delhi,Strongly Recommend to Everyone to Buy this Product
+1039,10/22/2018,37,478,38,Bangalore,Dont ever dream of buying this item
+1040,7/8/2019,492,385,56,Bangalore,Appreciated
+1041,3/27/2019,696,263,71,Kolkata,Dont ever dream of buying this item
+1042,7/18/2019,564,160,83,Trivandrum,Dont ever dream of buying this item
+1043,3/17/2019,158,654,90,Mumbai,Pathetic Items Received
+1044,2/20/2019,669,633,78,New Delhi,Awful Items
+1045,11/3/2018,765,969,73,Hyderabad,Dont ever dream of buying this item
+1046,8/2/2019,477,502,97,New Delhi,Appreciated
+1047,11/14/2018,883,15,65,Mumbai,Pathetic Items Received
+1048,10/31/2018,59,352,83,Chennai,Dont ever dream of buying this item
+1049,8/10/2019,33,198,65,Hyderabad,Appreciated
+1050,8/13/2019,361,155,78,Hyderabad,Dont ever dream of buying this item
+1051,2/14/2019,719,196,78,Chennai,Pathetic Items Received
+1052,2/20/2019,263,226,79,Kolkata,Awful Items
+1053,6/20/2019,566,324,95,Mumbai,Dont ever dream of buying this item
+1054,11/4/2018,958,913,39,Bangalore,Wonderful Product
+1055,8/2/2019,123,731,18,Chennai,Appreciated
+1056,4/7/2019,947,674,92,Chennai,Strongly Recommend to Everyone to Buy this Product
+1057,8/26/2019,465,76,30,Hyderabad,Wonderful Product
+1058,12/26/2018,164,812,42,Kolkata,Pathetic Items Received
+1059,7/17/2019,10,256,91,Hyderabad,Wonderful Product
+1060,5/27/2019,985,737,21,Trivandrum,Strongly Recommend to Everyone to Buy this Product
+1061,5/14/2019,439,635,15,New Delhi,Pathetic Items Received
+1062,12/13/2018,739,386,44,Hyderabad,Dont ever dream of buying this item
+1063,4/8/2019,456,603,66,Bangalore,Dont ever dream of buying this item
+1064,2/3/2019,697,727,99,Mumbai,Pathetic Items Received
+1065,2/24/2019,843,679,80,Bangalore,Wonderful Product
+1066,1/30/2019,851,373,52,Mumbai,Appreciated
+1067,2/12/2019,211,253,34,Hyderabad,Pathetic Items Received
+1068,7/19/2019,350,364,21,Mumbai,Awful Items
+1069,9/6/2019,938,158,94,Chennai,Strongly Recommend to Everyone to Buy this Product
+1070,11/28/2018,541,492,23,Trivandrum,Strongly Recommend to Everyone to Buy this Product
+1071,4/22/2019,140,418,51,Chennai,Pathetic Items Received
+1072,3/22/2019,776,347,52,Mumbai,Awful Items
+1073,12/21/2018,422,610,40,Trivandrum,Dont ever dream of buying this item
+1074,5/27/2019,344,283,62,Kolkata,Awful Items
+1075,10/7/2018,621,674,80,Chennai,Wonderful Product
+1076,12/8/2018,483,482,16,Trivandrum,Awful Items
+1077,6/30/2019,688,454,57,Mysore,Pathetic Items Received
+1078,1/27/2019,363,549,27,Bangalore,Strongly Recommend to Everyone to Buy this Product
+1079,6/18/2019,812,355,84,Chennai,Strongly Recommend to Everyone to Buy this Product
+1080,10/4/2018,485,567,34,Mumbai,Pathetic Items Received
+1081,1/16/2019,972,310,41,Chennai,Dont ever dream of buying this item
+1082,1/18/2019,178,950,99,Hyderabad,Dont ever dream of buying this item
+1083,9/4/2019,289,501,75,Mysore,Dont ever dream of buying this item
+1084,4/5/2019,523,309,73,Mumbai,Dont ever dream of buying this item
+1085,2/6/2019,695,179,29,New Delhi,Strongly Recommend to Everyone to Buy this Product
+1086,1/9/2019,910,696,48,Hyderabad,Pathetic Items Received
+1087,9/29/2018,786,800,47,Bangalore,Awful Items
+1088,8/2/2019,993,401,85,Mumbai,Awful Items
+1089,11/8/2018,540,261,13,New Delhi,Pathetic Items Received
+1090,3/31/2019,420,164,79,Trivandrum,Awful Items
+1091,9/22/2018,866,842,13,Kolkata,Pathetic Items Received
+1092,2/6/2019,651,837,89,Trivandrum,Wonderful Product
+1093,9/26/2018,322,669,28,Mumbai,Dont ever dream of buying this item
+1094,1/7/2019,77,237,24,Trivandrum,Strongly Recommend to Everyone to Buy this Product
+1095,6/3/2019,371,863,67,Kolkata,Awful Items
+1096,9/15/2018,30,438,86,Bangalore,Strongly Recommend to Everyone to Buy this Product
+1097,9/8/2019,149,349,62,Hyderabad,Strongly Recommend to Everyone to Buy this Product
+1098,4/18/2019,863,252,75,Trivandrum,Pathetic Items Received
+1099,8/23/2019,610,334,58,Kolkata,Appreciated
+1100,5/7/2019,945,717,77,Mumbai,Wonderful Product
+1101,8/19/2019,219,725,63,Chennai,Dont ever dream of buying this item
+1102,3/19/2019,631,7,57,Mumbai,Dont ever dream of buying this item
+1103,8/31/2019,911,875,31,Bangalore,Dont ever dream of buying this item
+1104,10/6/2018,67,501,81,Mysore,Awful Items
+1105,12/21/2018,15,758,82,Mumbai,Dont ever dream of buying this item
+1106,11/21/2018,759,795,48,New Delhi,Strongly Recommend to Everyone to Buy this Product
+1107,12/13/2018,642,638,81,Mumbai,Awful Items
+1108,1/11/2019,535,412,39,New Delhi,Strongly Recommend to Everyone to Buy this Product
+1109,4/7/2019,365,928,27,Mumbai,Awful Items
+1110,7/7/2019,310,378,77,Mysore,Pathetic Items Received
+1111,3/3/2019,599,482,68,Mysore,Dont ever dream of buying this item
+1112,1/19/2019,702,203,37,Hyderabad,Awful Items
+1113,9/10/2018,158,174,93,New Delhi,Wonderful Product
+1114,4/5/2019,220,282,58,Trivandrum,Appreciated
+1115,2/2/2019,311,642,37,Kolkata,Pathetic Items Received
+1116,6/16/2019,449,567,22,New Delhi,Wonderful Product
+1117,12/4/2018,58,407,64,Mumbai,Dont ever dream of buying this item
+1118,3/31/2019,646,480,89,Trivandrum,Appreciated
+1119,4/9/2019,802,70,51,Mumbai,Dont ever dream of buying this item
+1120,8/8/2019,35,131,51,Chennai,Strongly Recommend to Everyone to Buy this Product
+1121,2/23/2019,163,741,98,Trivandrum,Awful Items
+1122,10/24/2018,653,213,27,Kolkata,Wonderful Product
+1123,2/17/2019,356,23,42,Mysore,Strongly Recommend to Everyone to Buy this Product
+1124,1/24/2019,30,520,39,Hyderabad,Wonderful Product
+1125,8/31/2019,743,781,26,Trivandrum,Awful Items
+1126,7/16/2019,931,395,39,Trivandrum,Appreciated
+1127,10/18/2018,931,568,75,Mumbai,Dont ever dream of buying this item
+1128,4/17/2019,751,251,15,Trivandrum,Wonderful Product
+1129,12/26/2018,595,232,99,New Delhi,Wonderful Product
+1130,9/24/2018,548,556,42,Mysore,Pathetic Items Received
+1131,4/11/2019,219,456,12,Kolkata,Awful Items
+1132,4/16/2019,798,603,76,Hyderabad,Dont ever dream of buying this item
+1133,3/25/2019,173,606,77,Hyderabad,Awful Items
+1134,2/26/2019,638,554,14,Hyderabad,Strongly Recommend to Everyone to Buy this Product
+1135,6/13/2019,733,360,99,Chennai,Strongly Recommend to Everyone to Buy this Product
+1136,6/5/2019,20,580,63,New Delhi,Appreciated
+1137,8/25/2019,743,492,78,Mysore,Strongly Recommend to Everyone to Buy this Product
+1138,7/8/2019,244,880,67,Mysore,Dont ever dream of buying this item
+1139,1/9/2019,387,581,87,Kolkata,Awful Items
+1140,6/4/2019,889,35,69,Mysore,Appreciated
+1141,11/18/2018,782,219,31,Trivandrum,Pathetic Items Received
+1142,9/5/2019,454,194,82,Mumbai,Awful Items
+1143,7/10/2019,635,773,10,Mysore,Dont ever dream of buying this item
+1144,10/21/2018,21,220,90,Chennai,Pathetic Items Received
+1145,12/19/2018,195,379,66,Trivandrum,Pathetic Items Received
+1146,8/26/2019,559,59,15,New Delhi,Appreciated
+1147,8/18/2019,961,819,56,Mysore,Dont ever dream of buying this item
+1148,3/6/2019,58,298,60,Mumbai,Strongly Recommend to Everyone to Buy this Product
+1149,3/30/2019,258,519,47,Bangalore,Dont ever dream of buying this item
+1150,1/27/2019,576,397,40,New Delhi,Strongly Recommend to Everyone to Buy this Product
+1151,7/29/2019,1,542,32,Mysore,Strongly Recommend to Everyone to Buy this Product
+1152,12/30/2018,888,697,44,Hyderabad,Dont ever dream of buying this item
+1153,4/5/2019,961,147,51,Mumbai,Pathetic Items Received
+1154,7/25/2019,386,397,51,Mysore,Dont ever dream of buying this item
+1155,1/24/2019,167,408,48,Mysore,Awful Items
+1156,12/9/2018,820,987,83,New Delhi,Awful Items
+1157,1/20/2019,607,398,13,New Delhi,Pathetic Items Received
+1158,7/31/2019,149,928,68,Trivandrum,Awful Items
+1159,2/16/2019,768,702,80,Chennai,Dont ever dream of buying this item
+1160,7/15/2019,713,490,96,Chennai,Awful Items
+1161,9/28/2018,43,268,50,New Delhi,Awful Items
+1162,3/25/2019,330,295,71,Mumbai,Dont ever dream of buying this item
+1163,3/12/2019,155,682,67,Mysore,Appreciated
+1164,7/14/2019,714,597,61,Hyderabad,Awful Items
+1165,4/5/2019,766,824,48,Mysore,Awful Items
+1166,2/27/2019,267,243,19,Chennai,Appreciated
+1167,5/31/2019,894,735,92,New Delhi,Strongly Recommend to Everyone to Buy this Product
+1168,1/3/2019,776,630,39,New Delhi,Pathetic Items Received
+1169,3/28/2019,330,627,29,Mumbai,Awful Items
+1170,2/15/2019,953,328,79,Hyderabad,Awful Items
+1171,6/7/2019,64,334,41,New Delhi,Strongly Recommend to Everyone to Buy this Product
+1172,7/10/2019,78,882,93,Mumbai,Pathetic Items Received
+1173,3/8/2019,622,748,76,Trivandrum,Strongly Recommend to Everyone to Buy this Product
+1174,5/18/2019,243,200,53,Chennai,Dont ever dream of buying this item
+1175,5/4/2019,920,222,32,Bangalore,Dont ever dream of buying this item
+1176,4/16/2019,553,834,11,Trivandrum,Wonderful Product
+1177,3/13/2019,609,646,73,Mumbai,Awful Items
+1178,12/8/2018,50,800,83,Chennai,Pathetic Items Received
+1179,12/11/2018,880,916,12,Chennai,Appreciated
+1180,8/3/2019,755,734,91,Hyderabad,Strongly Recommend to Everyone to Buy this Product
+1181,7/1/2019,814,662,60,Mysore,Wonderful Product
+1182,7/27/2019,273,273,41,Trivandrum,Appreciated
+1183,5/22/2019,529,919,93,Hyderabad,Awful Items
+1184,3/15/2019,861,679,13,New Delhi,Dont ever dream of buying this item
+1185,9/24/2018,51,469,78,Bangalore,Dont ever dream of buying this item
+1186,1/6/2019,1000,305,39,Chennai,Pathetic Items Received
+1187,10/11/2018,740,652,37,Chennai,Dont ever dream of buying this item
+1188,12/10/2018,276,435,83,Hyderabad,Wonderful Product
+1189,1/29/2019,871,423,49,Bangalore,Strongly Recommend to Everyone to Buy this Product
+1190,9/22/2018,935,510,92,Kolkata,Awful Items
+1191,8/25/2019,82,286,74,Trivandrum,Appreciated
+1192,1/22/2019,790,790,99,Mumbai,Dont ever dream of buying this item
+1193,5/16/2019,225,420,33,Mysore,Appreciated
+1194,6/16/2019,425,245,35,Hyderabad,Awful Items
+1195,2/12/2019,121,443,79,Bangalore,Awful Items
+1196,12/18/2018,360,657,29,Trivandrum,Strongly Recommend to Everyone to Buy this Product
+1197,6/6/2019,484,745,35,New Delhi,Appreciated
+1198,12/19/2018,814,715,72,Bangalore,Appreciated
+1199,5/8/2019,26,647,20,Trivandrum,Wonderful Product
+1200,5/30/2019,423,332,74,Bangalore,Appreciated
+1201,9/30/2018,947,16,53,Mumbai,Pathetic Items Received
+1202,8/26/2019,171,86,18,Mysore,Strongly Recommend to Everyone to Buy this Product
+1203,4/29/2019,164,423,36,Mumbai,Strongly Recommend to Everyone to Buy this Product
+1204,12/11/2018,999,777,86,New Delhi,Strongly Recommend to Everyone to Buy this Product
+1205,5/17/2019,767,167,74,Bangalore,Pathetic Items Received
+1206,3/20/2019,80,158,15,Mysore,Appreciated
+1207,11/11/2018,1000,847,56,Bangalore,Dont ever dream of buying this item
+1208,2/10/2019,182,164,58,New Delhi,Appreciated
+1209,12/13/2018,338,503,23,Trivandrum,Wonderful Product
+1210,1/8/2019,250,387,42,New Delhi,Appreciated
+1211,12/16/2018,270,874,71,Mysore,Awful Items
+1212,10/19/2018,186,429,66,New Delhi,Strongly Recommend to Everyone to Buy this Product
+1213,7/19/2019,916,765,94,Chennai,Dont ever dream of buying this item
+1214,10/10/2018,581,319,49,Bangalore,Pathetic Items Received
+1215,4/8/2019,94,201,16,Hyderabad,Dont ever dream of buying this item
+1216,8/18/2019,234,76,74,Kolkata,Strongly Recommend to Everyone to Buy this Product
+1217,9/18/2018,878,551,60,Trivandrum,Wonderful Product
+1218,2/21/2019,155,511,73,Trivandrum,Wonderful Product
+1219,7/24/2019,725,145,75,Trivandrum,Pathetic Items Received
+1220,11/27/2018,17,205,39,Bangalore,Strongly Recommend to Everyone to Buy this Product
+1221,9/2/2019,249,536,13,Chennai,Dont ever dream of buying this item
+1222,12/9/2018,183,937,71,Bangalore,Wonderful Product
+1223,5/27/2019,889,585,86,New Delhi,Pathetic Items Received
+1224,7/1/2019,248,834,18,Kolkata,Appreciated
+1225,11/22/2018,518,679,49,Trivandrum,Wonderful Product
+1226,11/19/2018,403,965,98,Trivandrum,Strongly Recommend to Everyone to Buy this Product
+1227,12/27/2018,159,696,17,Mysore,Pathetic Items Received
+1228,5/30/2019,656,508,40,Trivandrum,Appreciated
+1229,4/22/2019,507,228,90,New Delhi,Pathetic Items Received
+1230,6/14/2019,91,639,46,Mysore,Dont ever dream of buying this item
+1231,10/8/2018,63,714,68,New Delhi,Appreciated
+1232,1/2/2019,259,967,58,Mysore,Awful Items
+1233,4/17/2019,963,18,25,Mysore,Wonderful Product
+1234,10/23/2018,897,618,90,Mumbai,Pathetic Items Received
+1235,8/15/2019,899,944,100,Chennai,Wonderful Product
+1236,5/4/2019,712,709,63,New Delhi,Awful Items
+1237,2/7/2019,402,120,54,Kolkata,Wonderful Product
+1238,9/6/2019,48,493,84,Trivandrum,Appreciated
+1239,11/5/2018,408,458,52,Kolkata,Appreciated
+1240,2/12/2019,977,418,44,New Delhi,Dont ever dream of buying this item
+1241,4/20/2019,435,917,38,Trivandrum,Awful Items
+1242,8/1/2019,338,490,43,Bangalore,Awful Items
+1243,2/10/2019,39,363,54,New Delhi,Awful Items
+1244,11/14/2018,496,237,72,Trivandrum,Strongly Recommend to Everyone to Buy this Product
+1245,12/24/2018,295,427,23,New Delhi,Appreciated
+1246,7/4/2019,755,882,45,Bangalore,Dont ever dream of buying this item
+1247,4/14/2019,703,898,91,Bangalore,Pathetic Items Received
+1248,10/4/2018,384,331,18,Trivandrum,Dont ever dream of buying this item
+1249,2/23/2019,322,23,47,Trivandrum,Strongly Recommend to Everyone to Buy this Product
+1250,1/1/2019,2,551,46,Mumbai,Appreciated
+1251,3/3/2019,578,248,98,Bangalore,Strongly Recommend to Everyone to Buy this Product
+1252,3/22/2019,764,472,68,Bangalore,Appreciated
+1253,2/20/2019,533,732,77,Chennai,Awful Items
+1254,3/24/2019,290,731,15,New Delhi,Wonderful Product
+1255,6/18/2019,464,365,29,Trivandrum,Strongly Recommend to Everyone to Buy this Product
+1256,1/25/2019,85,682,70,Trivandrum,Appreciated
+1257,6/16/2019,356,998,79,Hyderabad,Strongly Recommend to Everyone to Buy this Product
+1258,1/23/2019,857,199,47,Kolkata,Strongly Recommend to Everyone to Buy this Product
+1259,4/5/2019,790,323,97,Bangalore,Awful Items
+1260,10/19/2018,541,596,55,Bangalore,Awful Items
+1261,3/3/2019,807,471,18,Hyderabad,Strongly Recommend to Everyone to Buy this Product
+1262,1/31/2019,639,290,81,Chennai,Strongly Recommend to Everyone to Buy this Product
+1263,8/21/2019,611,515,15,Chennai,Pathetic Items Received
+1264,11/10/2018,824,507,64,Chennai,Awful Items
+1265,4/8/2019,912,685,73,Mysore,Wonderful Product
+1266,4/23/2019,518,821,35,Mysore,Awful Items
+1267,11/27/2018,84,215,78,New Delhi,Appreciated
+1268,1/2/2019,947,190,11,Mumbai,Awful Items
+1269,7/10/2019,639,750,14,Mysore,Wonderful Product
+1270,8/11/2019,822,766,51,Trivandrum,Strongly Recommend to Everyone to Buy this Product
+1271,5/15/2019,591,927,48,Chennai,Wonderful Product
+1272,4/8/2019,330,757,87,Bangalore,Appreciated
+1273,12/30/2018,125,652,69,Trivandrum,Strongly Recommend to Everyone to Buy this Product
+1274,7/18/2019,516,510,41,Bangalore,Awful Items
+1275,4/7/2019,63,763,30,Kolkata,Appreciated
+1276,4/4/2019,226,511,69,Chennai,Awful Items
+1277,6/17/2019,4,279,96,Hyderabad,Wonderful Product
+1278,12/19/2018,1000,780,69,Chennai,Dont ever dream of buying this item
+1279,8/28/2019,926,439,32,New Delhi,Strongly Recommend to Everyone to Buy this Product
+1280,11/19/2018,492,403,80,Trivandrum,Appreciated
+1281,3/27/2019,826,926,87,Mumbai,Pathetic Items Received
+1282,3/24/2019,537,890,50,Trivandrum,Wonderful Product
+1283,7/5/2019,311,13,100,Mumbai,Strongly Recommend to Everyone to Buy this Product
+1284,12/19/2018,805,674,79,Kolkata,Appreciated
+1285,7/11/2019,762,553,37,Hyderabad,Awful Items
+1286,5/6/2019,788,260,14,Trivandrum,Awful Items
+1287,7/4/2019,855,712,37,Trivandrum,Dont ever dream of buying this item
+1288,1/15/2019,419,421,73,Hyderabad,Appreciated
+1289,1/6/2019,717,758,73,Mysore,Dont ever dream of buying this item
+1290,4/2/2019,584,945,82,Chennai,Dont ever dream of buying this item
+1291,8/4/2019,551,938,17,Mumbai,Dont ever dream of buying this item
+1292,11/16/2018,666,979,44,Hyderabad,Awful Items
+1293,2/9/2019,840,357,36,Mysore,Awful Items
+1294,6/26/2019,922,549,56,Mysore,Wonderful Product
+1295,9/28/2018,106,824,51,Kolkata,Dont ever dream of buying this item
+1296,9/5/2019,424,807,79,Chennai,Dont ever dream of buying this item
+1297,7/14/2019,218,992,85,Mumbai,Appreciated
+1298,4/6/2019,639,895,29,Hyderabad,Wonderful Product
+1299,10/14/2018,267,580,37,Mysore,Strongly Recommend to Everyone to Buy this Product
+1300,12/25/2018,121,932,37,Kolkata,Awful Items
+1301,8/2/2019,65,285,24,Chennai,Awful Items
+1302,8/24/2019,452,792,77,Trivandrum,Dont ever dream of buying this item
+1303,2/3/2019,763,831,78,Bangalore,Dont ever dream of buying this item
+1304,2/5/2019,708,786,77,Bangalore,Dont ever dream of buying this item
+1305,4/1/2019,711,604,73,Bangalore,Awful Items
+1306,1/21/2019,992,662,82,Trivandrum,Awful Items
+1307,6/14/2019,671,971,71,Hyderabad,Strongly Recommend to Everyone to Buy this Product
+1308,6/17/2019,766,759,91,New Delhi,Appreciated
+1309,4/22/2019,77,251,32,Chennai,Pathetic Items Received
+1310,10/24/2018,363,139,60,Chennai,Pathetic Items Received
+1311,11/18/2018,822,6,72,Chennai,Awful Items
+1312,1/15/2019,739,175,45,Bangalore,Pathetic Items Received
+1313,11/22/2018,871,964,29,New Delhi,Wonderful Product
+1314,2/27/2019,609,782,66,Trivandrum,Appreciated
+1315,11/6/2018,189,299,71,Kolkata,Wonderful Product
+1316,3/28/2019,938,201,96,Trivandrum,Dont ever dream of buying this item
+1317,2/12/2019,753,690,92,Mumbai,Strongly Recommend to Everyone to Buy this Product
+1318,6/23/2019,711,599,29,Trivandrum,Strongly Recommend to Everyone to Buy this Product
+1319,3/3/2019,506,610,88,Mumbai,Appreciated
+1320,8/7/2019,249,532,96,Trivandrum,Appreciated
+1321,5/2/2019,335,285,89,New Delhi,Wonderful Product
+1322,7/1/2019,96,989,64,Mysore,Wonderful Product
+1323,3/13/2019,188,782,26,Bangalore,Pathetic Items Received
+1324,7/25/2019,165,505,20,New Delhi,Dont ever dream of buying this item
+1325,7/10/2019,533,197,54,Chennai,Pathetic Items Received
+1326,7/21/2019,934,466,39,New Delhi,Dont ever dream of buying this item
+1327,3/27/2019,120,392,45,Chennai,Wonderful Product
+1328,6/27/2019,919,676,97,Chennai,Wonderful Product
+1329,12/24/2018,684,612,46,New Delhi,Awful Items
+1330,4/30/2019,160,78,37,Chennai,Dont ever dream of buying this item
+1331,1/15/2019,922,855,78,Bangalore,Appreciated
+1332,2/24/2019,772,913,43,Mysore,Pathetic Items Received
+1333,3/19/2019,278,537,48,Bangalore,Pathetic Items Received
+1334,11/5/2018,107,259,12,Mysore,Appreciated
+1335,5/14/2019,30,898,44,Trivandrum,Pathetic Items Received
+1336,6/28/2019,562,468,66,Mysore,Dont ever dream of buying this item
+1337,8/29/2019,422,580,25,Trivandrum,Strongly Recommend to Everyone to Buy this Product
+1338,11/30/2018,462,976,90,Hyderabad,Wonderful Product
+1339,4/18/2019,623,234,77,Mysore,Wonderful Product
+1340,11/6/2018,774,93,11,Bangalore,Dont ever dream of buying this item
+1341,10/3/2018,479,279,45,Mysore,Appreciated
+1342,8/11/2019,182,264,78,Kolkata,Strongly Recommend to Everyone to Buy this Product
+1343,10/19/2018,249,584,11,Mysore,Wonderful Product
+1344,12/27/2018,3,753,38,Chennai,Awful Items
+1345,5/7/2019,660,981,77,Mumbai,Wonderful Product
+1346,4/3/2019,633,937,33,Hyderabad,Appreciated
+1347,3/3/2019,615,365,56,Bangalore,Strongly Recommend to Everyone to Buy this Product
+1348,7/20/2019,783,305,10,Trivandrum,Strongly Recommend to Everyone to Buy this Product
+1349,6/19/2019,920,225,55,Mumbai,Pathetic Items Received
+1350,5/29/2019,573,687,48,Hyderabad,Pathetic Items Received
+1351,11/17/2018,162,600,20,Bangalore,Awful Items
+1352,2/11/2019,614,788,88,Bangalore,Appreciated
+1353,8/30/2019,989,115,12,Mysore,Wonderful Product
+1354,9/13/2018,127,429,87,Bangalore,Awful Items
+1355,12/29/2018,4,512,71,Mumbai,Dont ever dream of buying this item
+1356,1/13/2019,290,613,62,Mumbai,Pathetic Items Received
+1357,12/19/2018,865,688,76,Mumbai,Dont ever dream of buying this item
+1358,5/21/2019,237,949,15,Kolkata,Appreciated
+1359,12/2/2018,490,672,11,Mysore,Pathetic Items Received
+1360,8/4/2019,613,983,65,Kolkata,Wonderful Product
+1361,7/22/2019,739,675,48,New Delhi,Awful Items
+1362,12/3/2018,478,866,59,Mysore,Pathetic Items Received
+1363,5/1/2019,1000,859,61,Bangalore,Wonderful Product
+1364,5/19/2019,321,511,96,Kolkata,Appreciated
+1365,12/20/2018,972,566,91,Trivandrum,Appreciated
+1366,11/18/2018,16,242,60,Trivandrum,Dont ever dream of buying this item
+1367,12/28/2018,135,928,97,Mysore,Wonderful Product
+1368,7/3/2019,684,454,73,Mysore,Awful Items
+1369,4/11/2019,64,126,21,Trivandrum,Strongly Recommend to Everyone to Buy this Product
+1370,2/27/2019,332,265,97,Trivandrum,Appreciated
+1371,2/12/2019,178,362,47,New Delhi,Pathetic Items Received
+1372,2/26/2019,245,258,57,Mumbai,Awful Items
+1373,9/27/2018,378,617,31,Chennai,Strongly Recommend to Everyone to Buy this Product
+1374,3/29/2019,802,821,17,Trivandrum,Appreciated
+1375,5/2/2019,233,461,60,Trivandrum,Pathetic Items Received
+1376,4/20/2019,318,782,24,Kolkata,Dont ever dream of buying this item
+1377,5/21/2019,951,748,71,Bangalore,Awful Items
+1378,8/13/2019,177,669,93,Bangalore,Wonderful Product
+1379,9/3/2019,362,993,44,Kolkata,Strongly Recommend to Everyone to Buy this Product
+1380,3/22/2019,830,599,57,Chennai,Strongly Recommend to Everyone to Buy this Product
+1381,6/1/2019,910,989,87,Hyderabad,Awful Items
+1382,6/1/2019,780,380,10,New Delhi,Strongly Recommend to Everyone to Buy this Product
+1383,6/4/2019,113,507,23,Bangalore,Pathetic Items Received
+1384,5/24/2019,679,2,89,Bangalore,Dont ever dream of buying this item
+1385,6/29/2019,701,422,52,Mumbai,Strongly Recommend to Everyone to Buy this Product
+1386,4/19/2019,539,277,65,Mumbai,Awful Items
+1387,12/25/2018,694,288,61,Hyderabad,Appreciated
+1388,5/19/2019,652,979,87,Hyderabad,Dont ever dream of buying this item
+1389,9/9/2018,423,371,71,New Delhi,Wonderful Product
+1390,4/4/2019,583,658,22,Trivandrum,Wonderful Product
+1391,1/5/2019,238,392,13,Bangalore,Awful Items
+1392,11/21/2018,157,664,29,Chennai,Wonderful Product
+1393,7/10/2019,415,139,36,New Delhi,Awful Items
+1394,1/2/2019,414,19,74,Hyderabad,Pathetic Items Received
+1395,5/27/2019,311,511,47,Bangalore,Strongly Recommend to Everyone to Buy this Product
+1396,10/30/2018,489,140,75,New Delhi,Wonderful Product
+1397,6/23/2019,751,761,30,Hyderabad,Awful Items
+1398,12/13/2018,266,630,46,Mumbai,Pathetic Items Received
+1399,2/23/2019,113,93,18,Kolkata,Dont ever dream of buying this item
+1400,11/1/2018,690,579,82,Mysore,Wonderful Product
+1401,6/18/2019,222,8,55,Chennai,Appreciated
+1402,6/23/2019,858,490,64,Bangalore,Strongly Recommend to Everyone to Buy this Product
+1403,5/23/2019,223,895,67,Mysore,Appreciated
+1404,12/13/2018,631,98,42,Trivandrum,Wonderful Product
+1405,9/14/2018,14,776,13,Kolkata,Strongly Recommend to Everyone to Buy this Product
+1406,6/17/2019,970,931,38,Trivandrum,Wonderful Product
+1407,9/29/2018,86,272,46,Kolkata,Dont ever dream of buying this item
+1408,10/12/2018,660,78,67,Trivandrum,Pathetic Items Received
+1409,3/30/2019,875,947,11,Bangalore,Dont ever dream of buying this item
+1410,11/18/2018,816,372,89,New Delhi,Wonderful Product
+1411,2/27/2019,687,850,12,New Delhi,Wonderful Product
+1412,1/10/2019,242,676,86,Bangalore,Appreciated
+1413,12/2/2018,489,254,57,Hyderabad,Wonderful Product
+1414,4/16/2019,545,909,34,New Delhi,Strongly Recommend to Everyone to Buy this Product
+1415,5/4/2019,949,506,91,Kolkata,Appreciated
+1416,12/13/2018,761,406,79,New Delhi,Wonderful Product
+1417,4/25/2019,668,334,72,Hyderabad,Strongly Recommend to Everyone to Buy this Product
+1418,2/11/2019,713,459,99,Hyderabad,Awful Items
+1419,9/23/2018,585,851,100,Hyderabad,Appreciated
+1420,10/15/2018,190,427,95,Kolkata,Dont ever dream of buying this item
+1421,11/1/2018,715,689,68,Mysore,Strongly Recommend to Everyone to Buy this Product
+1422,8/28/2019,309,53,10,Hyderabad,Dont ever dream of buying this item
+1423,2/20/2019,509,625,20,Trivandrum,Awful Items
+1424,8/23/2019,223,597,86,Mumbai,Pathetic Items Received
+1425,11/3/2018,983,727,46,Mumbai,Dont ever dream of buying this item
+1426,2/28/2019,27,650,43,Hyderabad,Dont ever dream of buying this item
+1427,4/26/2019,621,848,17,New Delhi,Strongly Recommend to Everyone to Buy this Product
+1428,4/30/2019,892,711,89,Trivandrum,Awful Items
+1429,4/26/2019,528,651,90,Mumbai,Dont ever dream of buying this item
+1430,8/19/2019,703,3,74,Chennai,Awful Items
+1431,7/11/2019,772,222,53,New Delhi,Dont ever dream of buying this item
+1432,6/11/2019,669,358,49,New Delhi,Pathetic Items Received
+1433,9/15/2018,296,782,45,Mumbai,Awful Items
+1434,2/23/2019,39,525,47,New Delhi,Awful Items
+1435,6/30/2019,167,336,36,Kolkata,Appreciated
+1436,11/12/2018,591,996,45,Bangalore,Dont ever dream of buying this item
+1437,8/2/2019,901,303,34,Mumbai,Dont ever dream of buying this item
+1438,2/12/2019,609,849,78,Trivandrum,Awful Items
+1439,2/18/2019,641,469,89,Hyderabad,Appreciated
+1440,3/6/2019,931,127,73,Hyderabad,Awful Items
+1441,1/20/2019,146,537,52,Mumbai,Wonderful Product
+1442,11/17/2018,374,129,14,New Delhi,Pathetic Items Received
+1443,6/4/2019,719,804,44,Mumbai,Awful Items
+1444,2/14/2019,252,538,81,Kolkata,Awful Items
+1445,9/29/2018,405,223,37,Mumbai,Awful Items
+1446,10/5/2018,543,317,93,Chennai,Dont ever dream of buying this item
+1447,1/1/2019,449,60,18,Chennai,Wonderful Product
+1448,1/24/2019,310,938,76,Chennai,Dont ever dream of buying this item
+1449,3/27/2019,537,327,42,Trivandrum,Appreciated
+1450,1/31/2019,912,902,16,Bangalore,Dont ever dream of buying this item
+1451,9/22/2018,780,900,83,Bangalore,Appreciated
+1452,5/19/2019,963,271,55,Hyderabad,Dont ever dream of buying this item
+1453,1/27/2019,902,570,52,Hyderabad,Wonderful Product
+1454,9/26/2018,31,329,44,Mumbai,Appreciated
+1455,2/19/2019,448,304,61,Bangalore,Pathetic Items Received
+1456,12/12/2018,284,680,11,Kolkata,Dont ever dream of buying this item
+1457,10/8/2018,246,844,72,Hyderabad,Awful Items
+1458,4/23/2019,948,763,42,New Delhi,Wonderful Product
+1459,8/27/2019,170,65,54,Trivandrum,Appreciated
+1460,10/10/2018,841,753,13,Chennai,Awful Items
+1461,12/29/2018,95,710,44,Kolkata,Dont ever dream of buying this item
+1462,1/2/2019,439,990,94,Hyderabad,Wonderful Product
+1463,2/6/2019,167,152,82,Mysore,Appreciated
+1464,5/12/2019,153,45,95,Hyderabad,Dont ever dream of buying this item
+1465,6/20/2019,484,62,31,Bangalore,Appreciated
+1466,5/1/2019,689,93,87,Trivandrum,Wonderful Product
+1467,1/14/2019,282,740,12,Mysore,Awful Items
+1468,3/11/2019,619,918,75,Mumbai,Strongly Recommend to Everyone to Buy this Product
+1469,1/6/2019,704,379,69,New Delhi,Dont ever dream of buying this item
+1470,4/24/2019,326,311,17,Mysore,Pathetic Items Received
+1471,6/19/2019,154,204,37,New Delhi,Dont ever dream of buying this item
+1472,4/10/2019,647,562,97,Kolkata,Awful Items
+1473,11/27/2018,811,679,49,Trivandrum,Dont ever dream of buying this item
+1474,8/31/2019,971,165,80,Trivandrum,Dont ever dream of buying this item
+1475,4/14/2019,440,534,81,Trivandrum,Strongly Recommend to Everyone to Buy this Product
+1476,6/10/2019,214,349,75,Trivandrum,Strongly Recommend to Everyone to Buy this Product
+1477,3/11/2019,17,906,67,Bangalore,Dont ever dream of buying this item
+1478,10/3/2018,658,51,100,Kolkata,Awful Items
+1479,10/12/2018,153,125,59,New Delhi,Awful Items
+1480,10/28/2018,937,201,81,Mumbai,Strongly Recommend to Everyone to Buy this Product
+1481,8/31/2019,954,846,13,Trivandrum,Wonderful Product
+1482,8/21/2019,504,130,72,Mumbai,Dont ever dream of buying this item
+1483,6/13/2019,654,413,44,Hyderabad,Pathetic Items Received
+1484,7/30/2019,3,573,96,Mysore,Wonderful Product
+1485,2/13/2019,998,503,18,Chennai,Strongly Recommend to Everyone to Buy this Product
+1486,11/15/2018,697,627,33,Mumbai,Dont ever dream of buying this item
+1487,5/7/2019,248,196,57,Bangalore,Strongly Recommend to Everyone to Buy this Product
+1488,10/1/2018,535,811,54,New Delhi,Appreciated
+1489,12/25/2018,57,429,53,Mumbai,Pathetic Items Received
+1490,4/5/2019,330,977,35,Kolkata,Dont ever dream of buying this item
+1491,10/8/2018,676,531,20,New Delhi,Appreciated
+1492,8/20/2019,794,88,97,Kolkata,Wonderful Product
+1493,10/7/2018,499,757,81,Hyderabad,Dont ever dream of buying this item
+1494,9/27/2018,719,678,96,Chennai,Appreciated
+1495,2/22/2019,706,782,59,Mysore,Strongly Recommend to Everyone to Buy this Product
+1496,11/26/2018,871,632,51,Hyderabad,Strongly Recommend to Everyone to Buy this Product
+1497,5/12/2019,574,466,48,Bangalore,Wonderful Product
+1498,7/31/2019,573,368,94,Mumbai,Dont ever dream of buying this item
+1499,1/22/2019,946,651,85,Mysore,Pathetic Items Received
+1500,10/31/2018,546,785,58,Chennai,Appreciated
+1501,9/14/2018,369,81,10,Hyderabad,Awful Items
+1502,6/4/2019,660,870,84,New Delhi,Appreciated
+1503,4/12/2019,811,304,74,Hyderabad,Awful Items
+1504,5/27/2019,391,668,10,Chennai,Dont ever dream of buying this item
+1505,7/5/2019,26,514,32,Chennai,Wonderful Product
+1506,1/10/2019,146,249,93,Trivandrum,Dont ever dream of buying this item
+1507,8/25/2019,39,771,57,Mumbai,Dont ever dream of buying this item
+1508,5/26/2019,918,462,42,Trivandrum,Dont ever dream of buying this item
+1509,10/31/2018,675,989,75,New Delhi,Pathetic Items Received
+1510,5/15/2019,621,796,64,Mumbai,Pathetic Items Received
+1511,12/15/2018,792,147,97,Hyderabad,Dont ever dream of buying this item
+1512,12/12/2018,267,891,83,Chennai,Appreciated
+1513,9/7/2019,945,992,32,Mysore,Wonderful Product
+1514,7/2/2019,300,952,25,New Delhi,Awful Items
+1515,10/28/2018,409,264,35,Bangalore,Wonderful Product
+1516,3/6/2019,466,488,42,Kolkata,Appreciated
+1517,2/3/2019,429,443,49,Hyderabad,Appreciated
+1518,4/17/2019,352,163,36,Chennai,Awful Items
+1519,6/26/2019,407,112,79,Hyderabad,Awful Items
+1520,9/14/2018,467,610,82,New Delhi,Pathetic Items Received
+1521,7/9/2019,470,409,35,Kolkata,Awful Items
+1522,4/18/2019,769,5,34,Trivandrum,Wonderful Product
+1523,8/16/2019,915,602,74,Mumbai,Strongly Recommend to Everyone to Buy this Product
+1524,2/16/2019,912,419,26,Trivandrum,Strongly Recommend to Everyone to Buy this Product
+1525,6/6/2019,861,356,75,Chennai,Strongly Recommend to Everyone to Buy this Product
+1526,12/21/2018,381,940,17,Trivandrum,Wonderful Product
+1527,9/6/2019,622,515,67,Chennai,Appreciated
+1528,11/11/2018,219,43,85,Bangalore,Pathetic Items Received
+1529,6/22/2019,693,709,11,Kolkata,Appreciated
+1530,4/6/2019,332,637,94,Mysore,Wonderful Product
+1531,4/8/2019,473,369,70,Bangalore,Appreciated
+1532,7/17/2019,753,784,44,Bangalore,Appreciated
+1533,7/20/2019,837,543,45,Kolkata,Pathetic Items Received
+1534,6/19/2019,629,285,37,Kolkata,Dont ever dream of buying this item
+1535,6/27/2019,841,755,64,Bangalore,Appreciated
+1536,3/11/2019,926,42,70,Kolkata,Pathetic Items Received
+1537,9/7/2019,307,982,44,Hyderabad,Pathetic Items Received
+1538,5/23/2019,287,296,90,Kolkata,Wonderful Product
+1539,10/15/2018,319,35,41,Bangalore,Pathetic Items Received
+1540,11/12/2018,893,360,76,Bangalore,Pathetic Items Received
+1541,11/21/2018,992,447,60,Mysore,Appreciated
+1542,10/21/2018,254,47,81,Mumbai,Strongly Recommend to Everyone to Buy this Product
+1543,3/4/2019,209,855,50,New Delhi,Dont ever dream of buying this item
+1544,2/19/2019,242,243,83,Chennai,Appreciated
+1545,1/2/2019,311,68,21,Bangalore,Pathetic Items Received
+1546,11/12/2018,898,311,16,Mysore,Dont ever dream of buying this item
+1547,8/4/2019,693,69,19,Bangalore,Pathetic Items Received
+1548,10/25/2018,581,918,30,Bangalore,Appreciated
+1549,3/28/2019,460,79,23,Bangalore,Wonderful Product
+1550,9/25/2018,312,905,76,New Delhi,Appreciated
+1551,4/24/2019,468,569,25,Kolkata,Wonderful Product
+1552,1/13/2019,297,242,43,Trivandrum,Appreciated
+1553,5/8/2019,569,632,40,Hyderabad,Appreciated
+1554,11/19/2018,431,214,83,New Delhi,Pathetic Items Received
+1555,2/20/2019,950,539,62,Mumbai,Pathetic Items Received
+1556,6/26/2019,308,131,76,Hyderabad,Dont ever dream of buying this item
+1557,7/26/2019,493,147,86,Mysore,Appreciated
+1558,3/30/2019,750,398,62,Hyderabad,Awful Items
+1559,6/3/2019,750,772,52,New Delhi,Appreciated
+1560,1/5/2019,865,150,15,New Delhi,Pathetic Items Received
+1561,6/12/2019,617,402,77,Hyderabad,Dont ever dream of buying this item
+1562,12/6/2018,604,89,33,Mumbai,Appreciated
+1563,5/23/2019,787,138,16,Kolkata,Strongly Recommend to Everyone to Buy this Product
+1564,10/6/2018,400,742,32,Hyderabad,Wonderful Product
+1565,1/3/2019,649,985,65,Chennai,Dont ever dream of buying this item
+1566,7/6/2019,775,416,48,Bangalore,Dont ever dream of buying this item
+1567,4/13/2019,569,961,94,Chennai,Appreciated
+1568,2/21/2019,196,360,13,Kolkata,Pathetic Items Received
+1569,11/30/2018,910,849,37,Chennai,Awful Items
+1570,5/13/2019,63,276,61,Hyderabad,Strongly Recommend to Everyone to Buy this Product
+1571,10/30/2018,851,702,13,Chennai,Wonderful Product
+1572,9/5/2019,753,726,65,Kolkata,Awful Items
+1573,7/26/2019,495,425,10,Trivandrum,Strongly Recommend to Everyone to Buy this Product
+1574,6/9/2019,405,752,72,Mumbai,Appreciated
+1575,2/14/2019,509,355,84,Trivandrum,Pathetic Items Received
+1576,9/9/2018,901,389,78,Mumbai,Awful Items
+1577,10/5/2018,848,821,80,Mysore,Appreciated
+1578,4/10/2019,534,403,74,Chennai,Appreciated
+1579,3/2/2019,994,843,84,Mumbai,Pathetic Items Received
+1580,12/10/2018,511,611,58,Kolkata,Strongly Recommend to Everyone to Buy this Product
+1581,6/9/2019,561,618,96,Chennai,Wonderful Product
+1582,9/26/2018,741,598,70,New Delhi,Strongly Recommend to Everyone to Buy this Product
+1583,4/19/2019,54,314,59,Mysore,Dont ever dream of buying this item
+1584,11/5/2018,626,127,22,Trivandrum,Appreciated
+1585,2/5/2019,458,653,82,Trivandrum,Dont ever dream of buying this item
+1586,6/20/2019,648,734,18,Kolkata,Strongly Recommend to Everyone to Buy this Product
+1587,11/9/2018,412,912,99,Chennai,Awful Items
+1588,7/19/2019,832,936,97,Mysore,Dont ever dream of buying this item
+1589,9/27/2018,753,190,68,Chennai,Wonderful Product
+1590,3/11/2019,984,303,32,Hyderabad,Strongly Recommend to Everyone to Buy this Product
+1591,10/18/2018,115,993,99,Trivandrum,Wonderful Product
+1592,5/25/2019,937,586,15,New Delhi,Pathetic Items Received
+1593,11/12/2018,782,54,70,Hyderabad,Wonderful Product
+1594,9/30/2018,919,201,18,Trivandrum,Wonderful Product
+1595,10/13/2018,426,443,30,Trivandrum,Wonderful Product
+1596,4/15/2019,187,124,19,Hyderabad,Appreciated
+1597,6/6/2019,689,960,46,New Delhi,Dont ever dream of buying this item
+1598,1/3/2019,145,668,95,Chennai,Strongly Recommend to Everyone to Buy this Product
+1599,12/2/2018,739,545,73,Chennai,Dont ever dream of buying this item
+1600,3/14/2019,85,672,59,New Delhi,Wonderful Product
+1601,3/30/2019,72,470,61,Mumbai,Wonderful Product
+1602,8/16/2019,846,218,17,New Delhi,Wonderful Product
+1603,7/5/2019,517,184,53,Chennai,Dont ever dream of buying this item
+1604,6/7/2019,30,431,42,Hyderabad,Awful Items
+1605,4/17/2019,159,352,93,Bangalore,Appreciated
+1606,1/20/2019,596,241,49,Chennai,Pathetic Items Received
+1607,3/29/2019,120,676,65,New Delhi,Wonderful Product
+1608,1/23/2019,326,221,81,Mysore,Wonderful Product
+1609,8/28/2019,698,662,99,Trivandrum,Wonderful Product
+1610,5/14/2019,658,740,58,Mysore,Appreciated
+1611,3/27/2019,150,444,20,Chennai,Dont ever dream of buying this item
+1612,2/5/2019,298,795,37,New Delhi,Dont ever dream of buying this item
+1613,10/28/2018,26,298,15,New Delhi,Appreciated
+1614,3/31/2019,658,362,59,Mumbai,Strongly Recommend to Everyone to Buy this Product
+1615,5/26/2019,779,804,83,Chennai,Wonderful Product
+1616,1/18/2019,92,452,56,Mumbai,Pathetic Items Received
+1617,3/6/2019,273,723,11,Hyderabad,Appreciated
+1618,9/29/2018,772,797,51,New Delhi,Dont ever dream of buying this item
+1619,6/5/2019,241,945,48,Chennai,Awful Items
+1620,1/29/2019,75,503,32,Hyderabad,Appreciated
+1621,12/17/2018,869,352,57,Kolkata,Appreciated
+1622,3/16/2019,860,750,28,Trivandrum,Dont ever dream of buying this item
+1623,9/9/2018,942,790,77,Bangalore,Strongly Recommend to Everyone to Buy this Product
+1624,10/11/2018,747,768,19,Mysore,Pathetic Items Received
+1625,12/19/2018,904,797,57,Bangalore,Awful Items
+1626,9/20/2018,499,659,22,Mysore,Strongly Recommend to Everyone to Buy this Product
+1627,7/21/2019,410,776,33,Trivandrum,Appreciated
+1628,12/10/2018,889,955,40,Trivandrum,Appreciated
+1629,2/15/2019,556,32,42,Trivandrum,Pathetic Items Received
+1630,11/22/2018,796,593,25,Hyderabad,Appreciated
+1631,11/17/2018,586,806,55,Kolkata,Pathetic Items Received
+1632,6/29/2019,171,706,26,Trivandrum,Awful Items
+1633,12/29/2018,425,865,25,Hyderabad,Awful Items
+1634,8/18/2019,963,528,100,Chennai,Awful Items
+1635,9/30/2018,894,485,12,Mumbai,Awful Items
+1636,5/15/2019,99,964,12,New Delhi,Pathetic Items Received
+1637,6/27/2019,494,277,92,Mumbai,Wonderful Product
+1638,1/17/2019,65,881,54,Chennai,Awful Items
+1639,5/1/2019,462,681,86,Chennai,Strongly Recommend to Everyone to Buy this Product
+1640,8/26/2019,846,963,47,Hyderabad,Appreciated
+1641,7/18/2019,914,609,50,Chennai,Pathetic Items Received
+1642,5/14/2019,953,129,15,Chennai,Pathetic Items Received
+1643,7/6/2019,711,325,80,New Delhi,Appreciated
+1644,2/10/2019,731,467,32,Mumbai,Strongly Recommend to Everyone to Buy this Product
+1645,10/15/2018,618,312,84,Mysore,Pathetic Items Received
+1646,12/18/2018,627,560,33,Mumbai,Strongly Recommend to Everyone to Buy this Product
+1647,4/15/2019,623,234,88,Bangalore,Wonderful Product
+1648,2/28/2019,602,290,65,Kolkata,Pathetic Items Received
+1649,3/2/2019,220,490,46,Hyderabad,Dont ever dream of buying this item
+1650,11/14/2018,275,148,70,Bangalore,Wonderful Product
+1651,11/11/2018,137,881,64,Hyderabad,Dont ever dream of buying this item
+1652,10/12/2018,205,327,84,Mumbai,Dont ever dream of buying this item
+1653,5/21/2019,341,65,15,Mumbai,Appreciated
+1654,6/15/2019,458,530,26,Mysore,Strongly Recommend to Everyone to Buy this Product
+1655,5/21/2019,808,670,43,Bangalore,Pathetic Items Received
+1656,2/6/2019,994,250,67,Mysore,Appreciated
+1657,5/6/2019,517,154,97,Hyderabad,Awful Items
+1658,3/28/2019,644,264,17,Bangalore,Dont ever dream of buying this item
+1659,12/11/2018,915,124,51,Kolkata,Strongly Recommend to Everyone to Buy this Product
+1660,1/29/2019,475,797,57,Mumbai,Pathetic Items Received
+1661,7/19/2019,731,232,62,Chennai,Wonderful Product
+1662,9/10/2018,429,843,58,Mysore,Dont ever dream of buying this item
+1663,5/22/2019,739,14,29,Chennai,Dont ever dream of buying this item
+1664,5/20/2019,290,903,89,Kolkata,Awful Items
+1665,3/26/2019,529,288,71,Mumbai,Wonderful Product
+1666,1/5/2019,968,401,14,New Delhi,Wonderful Product
+1667,5/11/2019,75,126,75,Bangalore,Pathetic Items Received
+1668,3/10/2019,437,953,62,New Delhi,Strongly Recommend to Everyone to Buy this Product
+1669,7/24/2019,681,277,39,Bangalore,Pathetic Items Received
+1670,2/10/2019,495,376,93,Mumbai,Wonderful Product
+1671,1/21/2019,515,644,37,Chennai,Wonderful Product
+1672,12/31/2018,429,720,14,Kolkata,Wonderful Product
+1673,1/27/2019,808,531,73,Trivandrum,Pathetic Items Received
+1674,10/19/2018,707,155,11,Mysore,Pathetic Items Received
+1675,9/30/2018,259,697,41,Kolkata,Wonderful Product
+1676,7/11/2019,20,497,64,Kolkata,Awful Items
+1677,5/10/2019,959,64,13,Chennai,Awful Items
+1678,7/8/2019,278,895,74,New Delhi,Strongly Recommend to Everyone to Buy this Product
+1679,11/25/2018,785,164,77,Bangalore,Dont ever dream of buying this item
+1680,3/14/2019,733,962,21,Mysore,Strongly Recommend to Everyone to Buy this Product
+1681,2/5/2019,159,955,33,Kolkata,Pathetic Items Received
+1682,4/27/2019,360,843,77,Mumbai,Strongly Recommend to Everyone to Buy this Product
+1683,4/15/2019,970,268,54,Kolkata,Dont ever dream of buying this item
+1684,8/19/2019,969,224,33,Bangalore,Pathetic Items Received
+1685,2/24/2019,521,253,47,Mumbai,Wonderful Product
+1686,7/29/2019,374,181,99,New Delhi,Dont ever dream of buying this item
+1687,12/2/2018,36,917,97,Mysore,Wonderful Product
+1688,3/3/2019,552,559,100,Hyderabad,Wonderful Product
+1689,7/4/2019,757,241,60,Bangalore,Appreciated
+1690,7/17/2019,707,94,78,Kolkata,Appreciated
+1691,6/1/2019,559,770,42,Hyderabad,Strongly Recommend to Everyone to Buy this Product
+1692,10/5/2018,346,940,93,Mysore,Appreciated
+1693,8/18/2019,772,695,74,Mumbai,Appreciated
+1694,4/30/2019,278,634,82,New Delhi,Pathetic Items Received
+1695,3/6/2019,359,632,43,Hyderabad,Awful Items
+1696,4/8/2019,815,20,53,Mysore,Strongly Recommend to Everyone to Buy this Product
+1697,5/28/2019,648,838,26,Trivandrum,Dont ever dream of buying this item
+1698,12/10/2018,309,15,48,Mysore,Wonderful Product
+1699,9/11/2018,710,420,65,Bangalore,Appreciated
+1700,1/25/2019,268,421,82,Mysore,Dont ever dream of buying this item
+1701,9/10/2018,591,198,78,Trivandrum,Wonderful Product
+1702,4/24/2019,795,243,37,Kolkata,Awful Items
+1703,3/13/2019,809,2,85,Mumbai,Strongly Recommend to Everyone to Buy this Product
+1704,6/22/2019,353,608,50,Hyderabad,Wonderful Product
+1705,6/26/2019,559,245,94,Bangalore,Wonderful Product
+1706,11/2/2018,360,642,88,Mumbai,Awful Items
+1707,5/20/2019,930,984,85,Mysore,Dont ever dream of buying this item
+1708,9/29/2018,228,602,14,Trivandrum,Awful Items
+1709,7/4/2019,982,897,23,New Delhi,Wonderful Product
+1710,7/25/2019,589,680,96,Kolkata,Dont ever dream of buying this item
+1711,11/18/2018,388,278,77,New Delhi,Dont ever dream of buying this item
+1712,10/27/2018,787,851,95,Bangalore,Awful Items
+1713,11/16/2018,76,537,100,Mumbai,Awful Items
+1714,6/8/2019,397,761,64,Mumbai,Appreciated
+1715,9/6/2019,454,117,28,Bangalore,Awful Items
+1716,7/1/2019,697,3,62,Mumbai,Appreciated
+1717,2/25/2019,701,678,86,Chennai,Wonderful Product
+1718,3/1/2019,349,279,53,Kolkata,Dont ever dream of buying this item
+1719,1/20/2019,188,629,50,New Delhi,Dont ever dream of buying this item
+1720,8/31/2019,690,786,20,Kolkata,Appreciated
+1721,1/30/2019,148,6,25,New Delhi,Appreciated
+1722,12/30/2018,445,794,55,New Delhi,Wonderful Product
+1723,3/18/2019,810,863,22,Chennai,Strongly Recommend to Everyone to Buy this Product
+1724,11/25/2018,91,939,76,Hyderabad,Wonderful Product
+1725,1/11/2019,220,8,42,Trivandrum,Appreciated
+1726,9/2/2019,494,465,59,New Delhi,Pathetic Items Received
+1727,5/1/2019,706,112,98,Mumbai,Wonderful Product
+1728,11/14/2018,927,728,22,Hyderabad,Strongly Recommend to Everyone to Buy this Product
+1729,2/28/2019,308,1,100,Chennai,Awful Items
+1730,8/19/2019,143,207,81,Chennai,Dont ever dream of buying this item
+1731,5/17/2019,848,954,55,Hyderabad,Dont ever dream of buying this item
+1732,3/21/2019,713,160,42,Mumbai,Wonderful Product
+1733,1/1/2019,914,884,10,Trivandrum,Pathetic Items Received
+1734,8/18/2019,73,659,84,Mumbai,Wonderful Product
+1735,6/5/2019,645,167,95,Bangalore,Awful Items
+1736,5/12/2019,838,604,53,Trivandrum,Strongly Recommend to Everyone to Buy this Product
+1737,10/4/2018,530,332,60,Hyderabad,Wonderful Product
+1738,10/8/2018,223,38,100,Chennai,Wonderful Product
+1739,8/6/2019,388,182,14,Hyderabad,Awful Items
+1740,5/20/2019,528,720,78,Chennai,Dont ever dream of buying this item
+1741,6/15/2019,835,976,40,Trivandrum,Appreciated
+1742,7/14/2019,805,7,94,Bangalore,Dont ever dream of buying this item
+1743,5/1/2019,173,9,65,Hyderabad,Dont ever dream of buying this item
+1744,3/16/2019,693,899,69,Trivandrum,Strongly Recommend to Everyone to Buy this Product
+1745,10/19/2018,869,494,13,Mumbai,Dont ever dream of buying this item
+1746,4/2/2019,214,559,57,Kolkata,Awful Items
+1747,3/3/2019,510,760,79,Kolkata,Dont ever dream of buying this item
+1748,2/14/2019,626,888,29,New Delhi,Strongly Recommend to Everyone to Buy this Product
+1749,9/24/2018,879,86,16,Mumbai,Awful Items
+1750,5/28/2019,161,348,59,Bangalore,Strongly Recommend to Everyone to Buy this Product
+1751,6/18/2019,438,120,36,Trivandrum,Awful Items
+1752,10/1/2018,647,418,80,Chennai,Strongly Recommend to Everyone to Buy this Product
+1753,11/7/2018,217,85,89,Mumbai,Wonderful Product
+1754,11/10/2018,896,106,61,Trivandrum,Appreciated
+1755,9/10/2018,447,700,52,Bangalore,Awful Items
+1756,8/11/2019,351,456,46,Hyderabad,Appreciated
+1757,1/19/2019,637,979,54,Kolkata,Appreciated
+1758,6/28/2019,90,85,99,New Delhi,Pathetic Items Received
+1759,8/25/2019,824,436,41,New Delhi,Awful Items
+1760,1/6/2019,676,286,41,Hyderabad,Appreciated
+1761,1/30/2019,778,944,44,Bangalore,Pathetic Items Received
+1762,2/18/2019,441,557,83,New Delhi,Strongly Recommend to Everyone to Buy this Product
+1763,12/2/2018,563,453,70,Hyderabad,Awful Items
+1764,7/3/2019,177,262,92,New Delhi,Strongly Recommend to Everyone to Buy this Product
+1765,6/30/2019,930,982,69,Mysore,Wonderful Product
+1766,1/16/2019,786,380,61,Trivandrum,Wonderful Product
+1767,12/31/2018,570,835,35,Trivandrum,Wonderful Product
+1768,3/14/2019,827,741,76,New Delhi,Appreciated
+1769,6/13/2019,61,860,91,Mumbai,Awful Items
+1770,7/27/2019,985,111,79,Bangalore,Dont ever dream of buying this item
+1771,7/12/2019,727,356,71,New Delhi,Pathetic Items Received
+1772,8/19/2019,844,501,68,Mysore,Wonderful Product
+1773,11/14/2018,117,241,82,Mysore,Dont ever dream of buying this item
+1774,8/11/2019,395,265,43,Mysore,Awful Items
+1775,5/13/2019,502,475,70,Mumbai,Strongly Recommend to Everyone to Buy this Product
+1776,3/25/2019,358,288,70,Mumbai,Wonderful Product
+1777,10/2/2018,139,595,27,New Delhi,Strongly Recommend to Everyone to Buy this Product
+1778,9/25/2018,28,486,93,Mysore,Appreciated
+1779,9/5/2019,724,296,18,Trivandrum,Wonderful Product
+1780,8/5/2019,182,470,92,Hyderabad,Appreciated
+1781,9/15/2018,755,321,32,Mysore,Strongly Recommend to Everyone to Buy this Product
+1782,9/12/2018,310,458,65,Mumbai,Strongly Recommend to Everyone to Buy this Product
+1783,2/24/2019,431,30,56,Hyderabad,Appreciated
+1784,5/24/2019,610,178,69,Mumbai,Wonderful Product
+1785,2/4/2019,185,169,13,Trivandrum,Wonderful Product
+1786,3/11/2019,813,300,38,Mysore,Strongly Recommend to Everyone to Buy this Product
+1787,9/5/2019,626,385,82,Kolkata,Appreciated
+1788,6/20/2019,600,332,76,Mysore,Appreciated
+1789,1/17/2019,591,901,64,Mysore,Awful Items
+1790,6/2/2019,434,445,87,Trivandrum,Pathetic Items Received
+1791,7/21/2019,41,420,86,Mysore,Pathetic Items Received
+1792,6/6/2019,466,915,45,Chennai,Strongly Recommend to Everyone to Buy this Product
+1793,6/24/2019,726,988,27,Mysore,Awful Items
+1794,1/2/2019,272,57,49,Kolkata,Awful Items
+1795,8/16/2019,638,435,17,Mysore,Appreciated
+1796,10/15/2018,980,227,52,Bangalore,Strongly Recommend to Everyone to Buy this Product
+1797,6/18/2019,135,57,14,Trivandrum,Pathetic Items Received
+1798,12/8/2018,772,122,51,Mysore,Dont ever dream of buying this item
+1799,4/29/2019,96,894,27,New Delhi,Appreciated
+1800,3/30/2019,936,693,38,Mysore,Awful Items
+1801,7/25/2019,365,217,19,Bangalore,Appreciated
+1802,12/22/2018,6,383,53,Trivandrum,Dont ever dream of buying this item
+1803,3/19/2019,218,570,42,Bangalore,Appreciated
+1804,6/6/2019,810,944,38,Kolkata,Pathetic Items Received
+1805,1/21/2019,155,820,88,Trivandrum,Dont ever dream of buying this item
+1806,7/12/2019,683,190,85,New Delhi,Pathetic Items Received
+1807,1/5/2019,421,920,64,Bangalore,Pathetic Items Received
+1808,9/18/2018,737,173,65,Chennai,Pathetic Items Received
+1809,10/7/2018,735,631,65,Chennai,Pathetic Items Received
+1810,5/26/2019,951,641,68,Kolkata,Strongly Recommend to Everyone to Buy this Product
+1811,11/7/2018,625,279,74,Hyderabad,Wonderful Product
+1812,3/28/2019,203,796,87,New Delhi,Strongly Recommend to Everyone to Buy this Product
+1813,12/1/2018,517,138,27,Hyderabad,Strongly Recommend to Everyone to Buy this Product
+1814,1/8/2019,808,997,100,Chennai,Dont ever dream of buying this item
+1815,7/25/2019,595,244,23,Trivandrum,Strongly Recommend to Everyone to Buy this Product
+1816,9/12/2018,514,111,89,New Delhi,Dont ever dream of buying this item
+1817,4/7/2019,968,597,68,New Delhi,Strongly Recommend to Everyone to Buy this Product
+1818,3/26/2019,501,446,54,Bangalore,Awful Items
+1819,11/12/2018,366,491,36,Trivandrum,Dont ever dream of buying this item
+1820,2/18/2019,438,573,83,Chennai,Appreciated
+1821,5/2/2019,59,373,48,Trivandrum,Strongly Recommend to Everyone to Buy this Product
+1822,6/28/2019,183,681,83,Hyderabad,Dont ever dream of buying this item
+1823,3/6/2019,579,147,97,Mysore,Awful Items
+1824,9/12/2018,867,696,54,Kolkata,Strongly Recommend to Everyone to Buy this Product
+1825,5/17/2019,254,747,25,New Delhi,Dont ever dream of buying this item
+1826,3/20/2019,325,467,94,Bangalore,Appreciated
+1827,4/4/2019,717,29,72,Chennai,Appreciated
+1828,4/1/2019,314,797,57,Mysore,Wonderful Product
+1829,11/14/2018,326,928,55,Chennai,Wonderful Product
+1830,1/2/2019,504,677,10,Mumbai,Appreciated
+1831,9/29/2018,299,656,25,Mysore,Wonderful Product
+1832,11/24/2018,68,469,44,Bangalore,Wonderful Product
+1833,1/26/2019,634,2,79,Kolkata,Pathetic Items Received
+1834,2/2/2019,683,941,97,Mysore,Dont ever dream of buying this item
+1835,8/6/2019,882,714,15,Trivandrum,Dont ever dream of buying this item
+1836,4/14/2019,47,214,63,Mumbai,Wonderful Product
+1837,10/15/2018,230,877,69,Chennai,Appreciated
+1838,1/3/2019,548,942,88,Chennai,Pathetic Items Received
+1839,4/19/2019,125,880,12,Chennai,Pathetic Items Received
+1840,8/21/2019,280,545,38,Hyderabad,Strongly Recommend to Everyone to Buy this Product
+1841,11/1/2018,963,948,97,Chennai,Wonderful Product
+1842,1/10/2019,205,855,77,Mysore,Strongly Recommend to Everyone to Buy this Product
+1843,11/14/2018,809,247,87,Mysore,Pathetic Items Received
+1844,2/28/2019,697,461,34,Hyderabad,Wonderful Product
+1845,6/9/2019,805,600,93,Chennai,Pathetic Items Received
+1846,3/17/2019,195,228,64,New Delhi,Dont ever dream of buying this item
+1847,11/12/2018,847,929,54,Kolkata,Awful Items
+1848,8/31/2019,356,343,42,Chennai,Strongly Recommend to Everyone to Buy this Product
+1849,12/25/2018,106,649,91,Mumbai,Strongly Recommend to Everyone to Buy this Product
+1850,5/24/2019,140,455,73,Chennai,Appreciated
+1851,5/27/2019,346,166,94,Kolkata,Appreciated
+1852,2/7/2019,640,76,86,Mumbai,Pathetic Items Received
+1853,10/21/2018,143,719,71,Kolkata,Dont ever dream of buying this item
+1854,8/24/2019,487,553,57,Chennai,Appreciated
+1855,12/5/2018,338,576,38,Mumbai,Dont ever dream of buying this item
+1856,7/30/2019,673,964,18,Mysore,Appreciated
+1857,1/18/2019,740,940,84,Hyderabad,Strongly Recommend to Everyone to Buy this Product
+1858,2/4/2019,105,506,94,Bangalore,Dont ever dream of buying this item
+1859,1/5/2019,675,54,60,Bangalore,Strongly Recommend to Everyone to Buy this Product
+1860,8/31/2019,705,621,23,Bangalore,Awful Items
+1861,6/20/2019,592,979,14,Hyderabad,Awful Items
+1862,7/10/2019,140,565,48,Hyderabad,Awful Items
+1863,12/22/2018,997,767,80,Chennai,Awful Items
+1864,12/25/2018,460,700,76,New Delhi,Dont ever dream of buying this item
+1865,8/20/2019,728,563,82,Hyderabad,Appreciated
+1866,2/11/2019,723,558,87,Chennai,Strongly Recommend to Everyone to Buy this Product
+1867,2/24/2019,103,153,13,Mumbai,Dont ever dream of buying this item
+1868,6/1/2019,193,445,24,Trivandrum,Pathetic Items Received
+1869,10/18/2018,486,348,38,Mumbai,Awful Items
+1870,10/28/2018,533,607,93,Chennai,Dont ever dream of buying this item
+1871,2/21/2019,504,879,41,Mumbai,Awful Items
+1872,12/19/2018,368,425,59,Kolkata,Strongly Recommend to Everyone to Buy this Product
+1873,6/28/2019,227,109,81,New Delhi,Pathetic Items Received
+1874,6/3/2019,41,560,82,Kolkata,Awful Items
+1875,12/25/2018,40,280,60,Kolkata,Strongly Recommend to Everyone to Buy this Product
+1876,12/9/2018,247,358,29,Trivandrum,Appreciated
+1877,9/22/2018,706,948,43,Kolkata,Awful Items
+1878,2/15/2019,447,511,61,New Delhi,Appreciated
+1879,8/7/2019,694,855,42,Mysore,Awful Items
+1880,8/12/2019,660,320,54,Bangalore,Awful Items
+1881,7/10/2019,496,122,62,Mumbai,Dont ever dream of buying this item
+1882,8/26/2019,181,214,29,Mumbai,Dont ever dream of buying this item
+1883,9/19/2018,585,13,97,Bangalore,Wonderful Product
+1884,5/31/2019,940,967,22,Chennai,Wonderful Product
+1885,6/23/2019,473,357,25,Hyderabad,Dont ever dream of buying this item
+1886,5/3/2019,284,185,70,Hyderabad,Pathetic Items Received
+1887,6/18/2019,144,233,98,Mysore,Appreciated
+1888,5/5/2019,604,736,11,Mysore,Appreciated
+1889,9/14/2018,999,34,56,Mumbai,Pathetic Items Received
+1890,10/4/2018,172,651,70,Kolkata,Appreciated
+1891,8/23/2019,127,391,19,Mumbai,Appreciated
+1892,11/25/2018,696,395,55,New Delhi,Awful Items
+1893,12/16/2018,247,971,27,Mumbai,Wonderful Product
+1894,12/14/2018,108,585,29,Mumbai,Dont ever dream of buying this item
+1895,3/18/2019,811,625,86,Kolkata,Awful Items
+1896,10/26/2018,59,315,87,Chennai,Awful Items
+1897,10/26/2018,123,858,47,Trivandrum,Dont ever dream of buying this item
+1898,1/27/2019,696,953,21,Mumbai,Pathetic Items Received
+1899,12/23/2018,360,530,95,Trivandrum,Dont ever dream of buying this item
+1900,10/16/2018,445,985,23,Hyderabad,Pathetic Items Received
+1901,9/27/2018,23,750,30,Chennai,Strongly Recommend to Everyone to Buy this Product
+1902,6/19/2019,799,496,35,New Delhi,Awful Items
+1903,7/2/2019,225,18,85,Chennai,Wonderful Product
+1904,10/29/2018,262,724,10,Kolkata,Dont ever dream of buying this item
+1905,1/31/2019,603,341,51,Mumbai,Awful Items
+1906,3/4/2019,95,273,25,Kolkata,Dont ever dream of buying this item
+1907,9/23/2018,481,638,21,Chennai,Awful Items
+1908,7/15/2019,36,792,21,Mumbai,Strongly Recommend to Everyone to Buy this Product
+1909,4/28/2019,717,988,71,Mysore,Appreciated
+1910,8/29/2019,22,792,99,Bangalore,Strongly Recommend to Everyone to Buy this Product
+1911,8/17/2019,161,553,80,Hyderabad,Dont ever dream of buying this item
+1912,9/9/2018,847,164,90,Mysore,Dont ever dream of buying this item
+1913,2/10/2019,75,407,47,Hyderabad,Appreciated
+1914,8/30/2019,333,41,90,Chennai,Awful Items
+1915,7/29/2019,867,3,77,Chennai,Appreciated
+1916,12/1/2018,707,260,76,Hyderabad,Wonderful Product
+1917,12/21/2018,768,18,26,Hyderabad,Wonderful Product
+1918,3/1/2019,683,123,78,Chennai,Strongly Recommend to Everyone to Buy this Product
+1919,5/6/2019,960,377,15,Hyderabad,Strongly Recommend to Everyone to Buy this Product
+1920,7/19/2019,369,276,99,Hyderabad,Appreciated
+1921,5/19/2019,804,190,16,Trivandrum,Awful Items
+1922,8/5/2019,629,581,83,New Delhi,Awful Items
+1923,3/2/2019,756,651,73,Bangalore,Pathetic Items Received
+1924,5/9/2019,899,171,20,Kolkata,Strongly Recommend to Everyone to Buy this Product
+1925,3/12/2019,854,268,10,Hyderabad,Dont ever dream of buying this item
+1926,5/11/2019,655,463,22,Hyderabad,Strongly Recommend to Everyone to Buy this Product
+1927,9/11/2018,944,149,75,Chennai,Strongly Recommend to Everyone to Buy this Product
+1928,3/21/2019,305,534,18,New Delhi,Dont ever dream of buying this item
+1929,7/23/2019,601,738,51,Bangalore,Strongly Recommend to Everyone to Buy this Product
+1930,7/13/2019,157,736,94,Hyderabad,Pathetic Items Received
+1931,12/16/2018,747,505,70,Hyderabad,Dont ever dream of buying this item
+1932,3/10/2019,507,276,86,Bangalore,Awful Items
+1933,8/20/2019,556,401,56,Mysore,Dont ever dream of buying this item
+1934,2/23/2019,844,819,15,Hyderabad,Dont ever dream of buying this item
+1935,10/25/2018,314,184,64,Trivandrum,Dont ever dream of buying this item
+1936,3/23/2019,29,665,38,Mysore,Strongly Recommend to Everyone to Buy this Product
+1937,9/4/2019,461,552,58,Bangalore,Dont ever dream of buying this item
+1938,11/11/2018,800,548,10,Trivandrum,Pathetic Items Received
+1939,12/17/2018,898,669,96,Kolkata,Appreciated
+1940,7/7/2019,725,238,46,Mysore,Pathetic Items Received
+1941,2/10/2019,465,641,99,Hyderabad,Wonderful Product
+1942,2/12/2019,845,848,50,Trivandrum,Strongly Recommend to Everyone to Buy this Product
+1943,1/21/2019,580,598,17,Chennai,Strongly Recommend to Everyone to Buy this Product
+1944,7/6/2019,221,65,69,Trivandrum,Appreciated
+1945,6/3/2019,976,528,91,Trivandrum,Awful Items
+1946,11/21/2018,159,504,47,Kolkata,Strongly Recommend to Everyone to Buy this Product
+1947,2/7/2019,451,709,33,Mysore,Dont ever dream of buying this item
+1948,10/30/2018,665,639,56,Mumbai,Strongly Recommend to Everyone to Buy this Product
+1949,9/17/2018,222,111,53,New Delhi,Awful Items
+1950,12/16/2018,571,312,54,Chennai,Strongly Recommend to Everyone to Buy this Product
+1951,1/1/2019,20,141,61,Trivandrum,Wonderful Product
+1952,5/21/2019,235,667,17,New Delhi,Dont ever dream of buying this item
+1953,5/26/2019,334,126,26,Kolkata,Pathetic Items Received
+1954,8/15/2019,886,760,93,Hyderabad,Wonderful Product
+1955,5/25/2019,783,305,37,Bangalore,Dont ever dream of buying this item
+1956,1/31/2019,246,541,14,Chennai,Appreciated
+1957,7/11/2019,28,385,49,Chennai,Appreciated
+1958,4/29/2019,842,763,75,Kolkata,Strongly Recommend to Everyone to Buy this Product
+1959,7/28/2019,851,263,69,Chennai,Strongly Recommend to Everyone to Buy this Product
+1960,3/30/2019,518,644,58,Bangalore,Dont ever dream of buying this item
+1961,5/12/2019,76,941,21,Kolkata,Strongly Recommend to Everyone to Buy this Product
+1962,5/24/2019,650,216,98,Chennai,Wonderful Product
+1963,6/8/2019,741,936,12,New Delhi,Wonderful Product
+1964,11/28/2018,195,155,93,Hyderabad,Strongly Recommend to Everyone to Buy this Product
+1965,10/11/2018,300,54,92,Bangalore,Strongly Recommend to Everyone to Buy this Product
+1966,8/11/2019,478,673,42,Hyderabad,Awful Items
+1967,8/24/2019,526,686,44,Hyderabad,Awful Items
+1968,1/22/2019,430,983,15,Mumbai,Awful Items
+1969,12/31/2018,340,244,72,Mysore,Appreciated
+1970,4/9/2019,581,729,38,Trivandrum,Awful Items
+1971,1/20/2019,255,994,51,Bangalore,Wonderful Product
+1972,5/14/2019,555,940,54,Mumbai,Pathetic Items Received
+1973,5/23/2019,683,981,53,New Delhi,Dont ever dream of buying this item
+1974,4/18/2019,811,7,36,Bangalore,Pathetic Items Received
+1975,5/9/2019,125,842,89,Mumbai,Pathetic Items Received
+1976,8/10/2019,946,168,83,Hyderabad,Strongly Recommend to Everyone to Buy this Product
+1977,6/6/2019,928,529,51,Bangalore,Awful Items
+1978,1/19/2019,653,122,65,Kolkata,Wonderful Product
+1979,5/6/2019,630,847,22,Hyderabad,Strongly Recommend to Everyone to Buy this Product
+1980,6/29/2019,976,422,27,Mumbai,Awful Items
+1981,8/14/2019,840,675,84,Chennai,Wonderful Product
+1982,2/13/2019,294,91,83,Mysore,Awful Items
+1983,5/14/2019,560,203,33,Mumbai,Awful Items
+1984,1/6/2019,169,908,98,Kolkata,Pathetic Items Received
+1985,11/1/2018,177,884,45,Mumbai,Dont ever dream of buying this item
+1986,2/6/2019,207,983,33,Bangalore,Pathetic Items Received
+1987,3/3/2019,401,290,36,Mysore,Strongly Recommend to Everyone to Buy this Product
+1988,11/21/2018,460,726,63,Chennai,Strongly Recommend to Everyone to Buy this Product
+1989,11/12/2018,968,53,61,Bangalore,Pathetic Items Received
+1990,4/8/2019,532,468,100,Kolkata,Awful Items
+1991,11/17/2018,111,586,18,Hyderabad,Dont ever dream of buying this item
+1992,1/31/2019,797,898,88,Trivandrum,Dont ever dream of buying this item
+1993,11/13/2018,709,74,46,New Delhi,Wonderful Product
+1994,3/6/2019,543,200,56,Hyderabad,Dont ever dream of buying this item
+1995,7/26/2019,596,613,46,New Delhi,Dont ever dream of buying this item
+1996,4/13/2019,638,546,54,Mumbai,Appreciated
+1997,11/27/2018,986,907,85,Bangalore,Dont ever dream of buying this item
+1998,12/17/2018,60,737,51,Chennai,Awful Items
+1999,11/17/2018,533,559,79,Chennai,Strongly Recommend to Everyone to Buy this Product
+2000,4/19/2019,867,358,100,New Delhi,Strongly Recommend to Everyone to Buy this Product
